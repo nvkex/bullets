@@ -1,5 +1,5 @@
 # bullets
-App to test your typing speed
+App to practice typing.
 
 # APIs
 BaconIpsum
